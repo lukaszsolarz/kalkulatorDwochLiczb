@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513002792 source:c:\users\£ukasz\desktop\kalkulator\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
